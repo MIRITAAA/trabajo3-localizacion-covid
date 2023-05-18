@@ -3,21 +3,18 @@ package com.practica.ems;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+<<<<<<< HEAD
 import java.io.FileNotFoundException;
 import java.util.List;
 
+=======
+>>>>>>> 6d04fc2db4a5a480fb7538cb378ba7113bf69eb6
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import com.practica.ems.covid.ContactosCovid;
-import com.practica.excecption.EmsDuplicateLocationException;
-import com.practica.excecption.EmsDuplicatePersonException;
-import com.practica.excecption.EmsInvalidNumberOfDataException;
-import com.practica.excecption.EmsInvalidTypeException;
-import com.practica.excecption.EmsLocalizationNotFoundException;
-import com.practica.excecption.EmsPersonNotFoundException;
 
 public class Test_2 {
 
